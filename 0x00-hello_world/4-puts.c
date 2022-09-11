@@ -2,11 +2,10 @@
 
 /**
  * main - print "Programming is like building a multilingual puzzle"
- *
  * Return: Alway 0 (Success)
  */
 int main(void)
 {
-  puts("n\"Programming is like building a multilingual puzzle");
-  return (0);
+puts("Programming is like building a multilingual puzzle"n\");
+return (0);
 }
